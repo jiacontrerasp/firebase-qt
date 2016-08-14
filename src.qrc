@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/code/actionhandler.cpp</file>
+        <file>src/code/datasnapshot.cpp</file>
+        <file>src/code/firebase.cpp</file>
+        <file>src/code/json.cpp</file>
+        <file>src/code/main.cpp</file>
+        <file>src/headers/actionhandler.h</file>
+        <file>src/headers/datasnapshot.h</file>
+        <file>src/headers/firebase.h</file>
+        <file>src/headers/json.h</file>
+    </qresource>
+</RCC>
