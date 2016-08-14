@@ -4,7 +4,7 @@
 ActionHandler::ActionHandler()
 {
     Firebase *firebase=new Firebase("https://jiacp-firebase.firebaseio.com/");
-    firebase->setToken("4XZjqok64rcxakJvWJwUyuAr0D3EO23h8BTtsSHZ");
+    firebase->setToken("o4XzD4KnhMjeqCnLoPLHemYsB48Xbp8XuSEkWKwG");
 
     qDebug()<<"Create firebase object and set token";
     firebase->getValue();
